@@ -1,0 +1,14 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+ <g id="Lunarpunk">
+  <rect id="svg_1" height="500" width="500" y="0" x="0" stroke="#000" fill="url(#svg_2)"/>
+  <text xml:space="preserve" text-anchor="start" font-family="monospace" font-size="49" stroke-width="0" id="svg_3" y="150" x="107" stroke="#000" fill="#000000">Lunarpunk</text>
+  <text transform="matrix(1, 0, 0, 1, 0, 0)" style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="24" stroke-width="0" id="svg_5" y="375" x="117.39999" stroke="#000" fill="#000000">Contributions: 10</text>
+  <text transform="matrix(1, 0, 0, 1, 0, 0)" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="24" stroke-width="0" id="svg_6" y="421" x="164.2" stroke="#000" fill="#000000">Projects: 5</text>
+ </g>
+ <defs>
+  <radialGradient spreadMethod="pad" id="svg_2">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#fff"/>
+  </radialGradient>
+ </defs>
+</svg>
